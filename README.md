@@ -8,7 +8,7 @@
 ### EXPERIENCE
 
 **BEBOTECHNOLOGIES**
-**Software Engineer** | Feb 2022 - Present
+**Software Engineer Database** | Apr 2022 - June 2024
 - Developed a backend solution using Python and Flask to automate the data testing process, reducing manual efforts by 20%.
 - Implemented an in-house application to manage and train new employees, reducing training time by 50%.
 - Collaborated with cross-functional teams to ensure seamless integration and deployment of the backend solution.

@@ -1,4 +1,4 @@
-**Vishal Sharma**
+**Vishal Sharma** |
 **Software Engineer**
 
 [github.com/Vishal-Vashisht](https://github.com/Vishal-Vashisht) | [linkedin](https://linkedin.com/in/vishal-sharma-88434b226)
